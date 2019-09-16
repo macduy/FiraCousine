@@ -1,6 +1,6 @@
 ![Fira Cousine](images/title.png)
 
-# Fira Cousine <<-***@!=</>
+# Fira Cousine
 
 **Fira Cousine** is [Cousine](https://fonts.google.com/specimen/Cousine) font enhanced with [Fira Code](https://github.com/tonsky/FiraCode)'s punctuation marks and ligatures. I created this because I like ligatures but find Fira Code hard to read, compared to my favourite font Cousine.
 
