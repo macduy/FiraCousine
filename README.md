@@ -14,8 +14,8 @@ Beautiful ligatures and punctuation marks but the font is overly curly and harde
 Why choose between legibility and ligatures? Have both!
 
 **I do not own the copyright to either font nor have I created the tools to create this font. Credits go to:**
- - @tonsky for creating [FiraCode](https://github.com/tonsky/FiraCode) font
- - @ToxifFrog for [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) tool for adding ligatures to other fonts
+ - [@tonsky](https://github.com/tonsky) for creating [FiraCode](https://github.com/tonsky/FiraCode) font
+ - [@ToxicFrog](https://github.com/ToxicFrog) for [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) tool for adding ligatures to other fonts
 
 ## How to use
 
